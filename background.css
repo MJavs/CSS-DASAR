@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding:0;
+
+}
+
+.background{
+    background-image: url('raja\ ampat.picture.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 720px;
+    background-position: center;
+}
+
+h1{
+    font-variant: small-caps;
+    font-size: 64px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    line-height: 720px;
+    color: white;
+}

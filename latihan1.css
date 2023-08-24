@@ -1,0 +1,36 @@
+.judul{
+  color: darkblue;
+  font-style: italic;
+  text-decoration: underline;
+  font-variant: small-caps;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+
+}
+
+.p1{
+  
+  background-color: red;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  
+  line-height: 3;
+}
+.p2{
+  background-color: purple;
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 3;
+}
+.p3{
+  background-color: crimson;
+  color: yellow;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 3;
+}
+.p4{
+  background-color: coral;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 3;
+}

@@ -1,0 +1,37 @@
+.paragraf1{
+    color: blueviolet;
+}
+.paragraf2{
+    color: maroon;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 48px;
+    font-variant: small-caps;
+    color: chocolate;
+}
+h1:active{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 48px;
+    font-variant: small-caps;
+    color: powderblue;
+    background-color: dodgerblue;
+}
+
+
+button{
+    width: 140px;
+    height: 40px;
+    border: none;
+    background-color: lime;
+    border-radius: 30px;
+}
+
+button:hover{
+    width: 140px;
+    height: 40px;
+    border: none;
+    background-color: purple;
+    border-radius: 30px;
+}
